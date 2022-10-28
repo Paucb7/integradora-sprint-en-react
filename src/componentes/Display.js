@@ -1,8 +1,9 @@
-export default function Display ({value}) {
-    return(
+import "./Display.css"
 
-        <div>
-            <div>{value}</div>
-        </div>
+export default function Display ({value}) {
+    return (
+      <div className="component-display">
+        <div>{value}</div>
+      </div>
     )
 }
