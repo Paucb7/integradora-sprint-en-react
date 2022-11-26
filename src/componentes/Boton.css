@@ -22,21 +22,21 @@
 }
 
 .component-button.orange button {
-    background: #f5923e;
+    background: #3e87f5;
     color: #fff;
 }
 
 .component-button.orange button:hover {
-    background: #bf7433;
+    background: #3351bf;
 }
 
 .component-button.green button {
-    background: #5f9c4b;
+    background: #21bad9;
     color: #fff;
 }
 
 .component-button.orange button:hover {
-    background: #5bd035;
+    background: #21bad9;
 }
 
 .component-button.green button {
